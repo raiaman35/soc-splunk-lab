@@ -51,5 +51,5 @@ This project demonstrates a real-world SOC workflow by simulating and detecting 
 
 ## 📄Report
 
-[incident-report.pdf](https://github.com/raiaman35/soc-splunk-lab/blob/1920d0815cf9c4cd00a1cf2feff42fd5ab7886f2/SOC_Incident_Report_INC-2026-01.pdf)
+[incident-report.pdf](https://github.com/raiaman35/soc-splunk-lab/blob/1920d0815cf9c4cd00a1cf2feff42fd5ab7886f2/incident-report/SOC_Incident_Report_INC-2026-01.pdf)
 
