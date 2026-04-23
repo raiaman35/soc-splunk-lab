@@ -46,10 +46,10 @@ This project demonstrates a real-world SOC workflow by simulating and detecting 
 - Configure Splunk alerts for failed login spikes
 ## 📸Screenshots
 
-![App Screenshot](incident-report/SOC_Incident_Report_INC-2026-01.pdf)
+![App Screenshot](https://github.com/raiaman35/soc-splunk-lab/blob/180b68cb67c85213e64d029397c460fa038783b0/Screenshots/VirtualBox_Ubuntu%20_23_04_2026_18_27_17.png)
 
 
 ## 📄Report
 
-[incident-report.pdf]([https://linktodocumentation](https://github.com/raiaman35/soc-splunk-lab/blob/1920d0815cf9c4cd00a1cf2feff42fd5ab7886f2/SOC_Incident_Report_INC-2026-01.pdf))
+[incident-report.pdf](https://github.com/raiaman35/soc-splunk-lab/blob/1920d0815cf9c4cd00a1cf2feff42fd5ab7886f2/SOC_Incident_Report_INC-2026-01.pdf)
 
